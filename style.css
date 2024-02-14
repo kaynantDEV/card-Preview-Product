@@ -125,4 +125,10 @@ button{
         width: 100%;
         font-size: 1.5em;
     }
+    .values{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
 }
